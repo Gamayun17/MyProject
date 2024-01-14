@@ -1,0 +1,12 @@
+
+o	java:S116	"NRename this field "CVC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ™¤Ñøÿÿÿÿ8›ˆºÈĞ1
+C
+java:S1068"&Remove this unused "id" private field.(æ¨ç†8œˆºÈĞ1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8œˆºÈĞ1
+G
+java:S1068"*Remove this unused "number" private field.(÷’’í8œˆºÈĞ1
+J
+java:S1068"(Remove this unused "cash" private field.(áÒîàüÿÿÿÿ8œˆºÈĞ1
+I
+java:S1068	"'Remove this unused "CVC" private field.(œ™¤Ñøÿÿÿÿ8œˆºÈĞ1
