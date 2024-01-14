@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="1" author="bachilo">
+        <sql>
+            //тут user
+        </sql>
+    </changeSet>
+
+    <changeSet id="2" author="bachilo">
+        <sql>
+            <!-- тут useraddress-->
+
+        </sql>
+    </changeSet>
+
+    <changeSet id="3" author="bachilo">
+        <sql>
+            <!-- тут userdetails-->
+          </sql>
+      </changeSet>
+
+      <changeSet id="4" author="bachilo">
+          <sql>
+              <!--тут userdetails-->
+        </sql>
+    </changeSet>
+    <changeSet id="5" author="bachilo">
+        <sql>
+            <!--тут cards-->
+        </sql>
+    </changeSet>
+
+    <changeSet id="4" author="bachilo">
+        <sql>
+            <!--тут account-->
+        </sql>
+    </changeSet>
+
+    <changeSet id="4" author="bachilo">
+        <sql>
+            <!--тут credits-->
+        </sql>
+    </changeSet>
+    <changeSet id="4" author="bachilo">
+        <sql>
+            <!--тут deposits-->
+        </sql>
+    </changeSet>
+
+
+
+
+
+</databaseChangeLog>
+
+
