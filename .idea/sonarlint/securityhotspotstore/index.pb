@@ -7,14 +7,6 @@
 service/pom.xml,a\1\a1f4042fbcf78e2ab86d486176a2378cd0a26e9a
 <
 data/pom.xml,7\d\7dbb0c1d09d19edefc0eb05a8c06582655a78078
-Y
-)data/src/main/java/by/me/data/Client.java,5\7\57d10f0bbb447dd2e18ed1671fc5e884f19359c6
-W
-'data/src/main/java/by/me/data/User.java,3\1\317428575fc75fc8456d3550c44b0b5f371cf9d2
-^
-.data/src/main/java/by/me/data/UserDetails.java,b\a\ba9570ad136dbd9f622d6b23823445a54b924da2
-]
--data/src/main/java/by/me/data/UserAdress.java,3\d\3d249cde866fd4d7a252a12ae04ebcdbf6154f51
 ^
 .data/src/main/java/by/me/data/entity/User.java,4\7\47dda540fe46aa71a7a5fd5ccced315732ee4156
 e
@@ -25,8 +17,6 @@ a
 .data/src/main/java/by/me/data/dao/UserDao.java,f\f\ffd74f154abd71a9f16350832744c3ca77c7dede
 b
 2data/src/main/java/by/me/data/dao/UserDaoImpl.java,c\8\c8352843265a6e24d8d59295bb0c88e8caa2da28
-d
-4data/src/main/java/by/me/data/entity/UserAdress.java,8\0\800ddbf03f4262184c1fc916f18bc07465f286d8
 R
 "web/src/main/webapp/jsp/footer.jsp,e\6\e66d09df0d1522fdf4fb62bc0763b7ebc79771c7
 R
@@ -36,15 +26,11 @@ R
 a
 1data/src/main/java/by/me/data/entity/Account.java,9\9\9993d1d25be5fa795430d447dff8f4c057670155
 `
-0data/src/main/java/by/me/data/entity/Client.java,5\d\5d15101903669af11d824a123883f8139e1ecda4
-`
 0data/src/main/java/by/me/data/entity/Credit.java,0\3\03ed921ca98c249de27552178b1b8678afe40175
 a
 1data/src/main/java/by/me/data/entity/Deposit.java,3\b\3b465648d44754b2096e933052dea8ac4b0309d3
 g
 7data/src/main/java/by/me/data/entity/Transferrcard.java,6\a\6a822ecbdad3af475a460b47344175eba05f5277
-h
-8data/src/main/java/by/me/data/entity/Accountdetails.java,e\5\e5a9b1503f4ef5a1377a96852c09dfe198da2af0
 e
 5data/src/main/java/by/me/data/entity/UserAddress.java,0\0\000cdd2c6fc697d61e54d7e7dd99fd9c9cc5a32b
 c
@@ -63,8 +49,6 @@ a
 1data/src/main/java/by/me/data/dao/DepositDao.java,7\a\7a4fa7b7cfb357e1e3baf3e788cff08eb5cfee9a
 e
 5data/src/main/java/by/me/data/dao/DepositDaoImpl.java,4\f\4f6c622dd758177e8693e0ebcebf1171f7c134be
-X
-(data/src/main/java/by/me/data/DataS.java,b\8\b87364d74bd786803beee4c521d67c524001b081
 ]
 -data/src/main/java/by/me/data/DataSource.java,2\6\2675f853205c711a45a2dea757e8f55882a3e72d
 P
@@ -83,8 +67,6 @@ T
 $web/src/main/webapp/jsp/account1.jsp,9\e\9e5f0d051c4a45bf3d6439df11a8dacc3acb69d4
 R
 "web/src/main/webapp/jsp/credit.jsp,9\6\96c575f4905b1cf981d3d562c70f3d0f212d3202
-T
-$web/src/main/webapp/jsp/credit1.jsp ,a\3\a35990b90b13b3c8e247b60fcc8dd32502e6a30c
 S
 #web/src/main/webapp/jsp/credit1.jsp,2\9\29fc0000ff6e3b64bb72c6b44e83ed012ff4f219
 S
@@ -95,8 +77,6 @@ T
 $web/src/main/webapp/jsp/transfer.jsp,0\2\028ef500e9f87bf1b085f4cf056371e5fa8674bf
 S
 #web/src/main/webapp/jsp/service.jsp,3\1\31140c6a60b6c683747ffd2d3a2a318e512e23e8
-o
-?service/src/main/java/by/me/service/AccountNumberGenerator.java,3\9\39f6f715f8e758ec0878abe12b717619d2bb4172
 ^
 .data/src/main/java/by/me/data/dto/UserDto.java,e\5\e5ba6fa7757fdcaaeefc48f858f8debdf024cbd8
 e
@@ -107,30 +87,14 @@ a
 1data/src/main/java/by/me/data/dto/AccountDto.java,e\7\e7fcf911378261e40b58ddf3d6c3104b3c294322
 ^
 .data/src/main/java/by/me/data/dto/CardDto.java,2\b\2b53d9eb9e822f219c93868f2518bdc66f1f4c93
-`
-0data/src/main/java/by/me/data/dto/CreditDto.java,8\0\8097a9ac27aa8ed65a65d90e1309cbf2554f9d4d
-a
-1data/src/main/java/by/me/data/dto/DepositDto.java,6\3\63b1aff7a76b7a453137efd456626e3b0ad39be6
 d
 4service/src/main/java/by/me/service/CardService.java,1\b\1b27c6bee391bdcfee4e93413437082bac02160d
 h
 8service/src/main/java/by/me/service/CardServiceImpl.java,7\a\7a4e70130491bd1897d518dc6c5b3ecbc748dfc8
 f
 6service/src/main/java/by/me/service/CreditService.java,e\c\ec34ae4ef304899bc070ae42bd259b7909a575fd
-s
-Cservice/src/main/java/by/me/service/AccountNumberGeneratorImpl.java,d\2\d2ff92e4b8d4b0bc440d07c9c6560c965c9f2588
-l
-<service/src/main/java/by/me/service/CardNumberGenerator.java,7\7\77db14cad3a6b1d8894211887e0b7da40ded5461
-p
-@service/src/main/java/by/me/service/CardNumberGeneratorImpl.java,6\7\67e46b96915e0d5f8322ceec30dd72174b2d7b3a
-m
-=service/src/main/java/by/me/service/ServiceConfiguration.java,1\3\1387ea143099041bfa5cee8294117b9724d40e02
 k
 ;service/src/main/java/by/me/service/DepositServiceImpl.java,9\e\9eb15dba2d490a346d2789e998e51cf2723bf02c
-b
-2service/src/main/java/by/me/model/CardFromWeb.java,5\5\55bf6f702d80bcde5ce4486e8ece8d25fa6caaf7
-e
-5service/src/main/java/by/me/model/AccountFromWeb.java,8\e\8e6d2f7d34d4f75013b61633325ecfe901aa652c
 g
 7service/src/main/java/by/me/service/DepositService.java,0\f\0fee99e3b182f318b1b75f18a691cee129df763a
 _
@@ -139,8 +103,6 @@ k
 ;service/src/main/java/by/me/service/GenerateCardNumber.java,d\8\d8dd714f9a8f6cecb8aa1737caf7d4817bf04593
 o
 ?service/src/main/java/by/me/service/GenerateCardNumberImpl.java,9\e\9ee90993d96e31ad9f9492cc9ae711c9ebf5a9bd
-g
-7service/src/main/java/by/me/service/model/CardServ.java,c\0\c0bc278f82b54d9c8ac2a1b3916be76065062654
 _
 /service/src/main/java/by/me/model/CardServ.java,3\5\3518834583bb52f474457fe5f3bc30180b556f94
 b
