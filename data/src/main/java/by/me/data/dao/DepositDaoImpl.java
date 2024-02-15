@@ -1,15 +1,18 @@
 package by.me.data.dao;
 
-import by.me.data.entity.Deposit;
-import by.me.data.entity.User;
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.springframework.beans.factory.annotation.Autowired;
+import by.me.data.dto.DepositDto;
+import by.me.data.pojo.Deposit;
+import by.me.data.pojo.BankClient;
 
 public class DepositDaoImpl implements DepositDao{
 
     @Override
-    public void saveNewDeposit(Deposit deposit, User user) {
+    public DepositDto getDepositById(int id) {
+        return //null;
+    }
 
+    @Override
+    public int addDeposit(DepositDto depositDto) {
+        return //0;
     }
 }

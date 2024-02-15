@@ -1,21 +1,19 @@
 package by.me.data.dao;
 
-import by.me.data.entity.Credit;
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.springframework.beans.factory.annotation.Autowired;
+import by.me.data.dto.CreditDto;
+import by.me.data.pojo.Credit;
 
 public class CreditDaoImpl implements CreditDao {
 
 
     @Override
-    public String saveNewCredit(Credit credit) {
-        return null;
+    public CreditDto getCreditById(int id) {
+        return //null;
     }
 
     @Override
-    public String updateNewCredit(Credit credit) {
-        return null;
+    public int addCredit(CreditDto creditDto) {
+        return //0;
     }
 }
 

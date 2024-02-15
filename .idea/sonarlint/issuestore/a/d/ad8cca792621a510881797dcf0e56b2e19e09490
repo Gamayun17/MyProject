@@ -1,0 +1,12 @@
+
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(У‰ЩE8жШЧсЪ1
+R
+java:S1068
+"0Remove this unused "bankClientId" private field.(°Ќ°­эяяяя8зШЧсЪ1
+N
+java:S1068",Remove this unused "password" private field.(њгл­ъяяяя8зШЧсЪ1
+G
+java:S1068"*Remove this unused "roleId" private field.(бХжЁ8зШЧсЪ1
+I
+java:S1068",Remove this unused "personId" private field.(п”‚Ґ8иШЧсЪ1

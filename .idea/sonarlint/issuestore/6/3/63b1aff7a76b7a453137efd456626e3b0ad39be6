@@ -1,0 +1,14 @@
+
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8»Â«ñÚ1
+P
+java:S1128"3Remove this unused import 'jakarta.persistence.Id'.(š¨ô 8Œ®«ñÚ1
+P
+java:S1068".Remove this unused "depsositId" private field.(ªñ“­ûÿÿÿÿ8®«ñÚ1
+Q
+java:S1068	"/Remove this unused "nameDeposit" private field.(îÎ­ëşÿÿÿÿ8®«ñÚ1
+P
+java:S1068
+".Remove this unused "sumDeposit" private field.(¸õ‡èşÿÿÿÿ8®«ñÚ1
+W
+java:S1068"5Remove this unused "percentageDeposit" private field.(Ì”ûÿÿÿÿ8¼Â«ñÚ1

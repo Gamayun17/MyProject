@@ -10,8 +10,7 @@ import org.springframework.stereotype.Service;
 public class DepositServiceImpl implements DepositService {
 
 
-    @Override
-    public void saveNewDeposit(DepositDto depositDto, String userId) {
+
 
     }
 }

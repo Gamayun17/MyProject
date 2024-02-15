@@ -1,4 +1,6 @@
 
-j	java:S116	"NRename this field "CVC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’½ù8ã ßÇĞ1
-D
-java:S1068	"'Remove this unused "CVC" private field.(£’½ù8ä ßÇĞ1
+G
+java:S1068
+"*Remove this unused "cardId" private field.(Ãõ˜€8İ›ÃñÚ1
+L
+java:S1068"*Remove this unused "nameId" private field.(şê€øÿÿÿÿ8õ·ÃñÚ1

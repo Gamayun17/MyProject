@@ -1,0 +1,12 @@
+
+S
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8¼™ºñÚ1
+N
+java:S1068",Remove this unused "creditId" private field.(Ì¥‚»ùÿÿÿÿ8…Ù¹ñÚ1
+K
+java:S1068".Remove this unused "nameCredit" private field.(®»Ê·8¼™ºñÚ1
+O
+java:S1068	"-Remove this unused "sumCredit" private field.(Ó½Òµûÿÿÿÿ8¼™ºñÚ1
+V
+java:S1068
+"4Remove this unused "percentageCredit" private field.(Øš—ˆøÿÿÿÿ8¼™ºñÚ1

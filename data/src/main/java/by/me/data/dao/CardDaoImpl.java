@@ -1,20 +1,24 @@
 package by.me.data.dao;
 
-import by.me.data.entity.Card;
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.transaction.annotation.Transactional;
+import by.me.data.pojo.Card;
+
+import java.sql.SQLException;
 
 public class CardDaoImpl implements CardDao {
 
+
     @Override
-    public String saveNewCard(Card card) {
-        return null;
+    public Card getCardById(int id) {
+        return //null;
     }
 
     @Override
-    public String createCardwithAccount(Card card) {
-        return null;
+    public int addCard(Card card) {
+        return //0;
+    }
+
+    @Override
+    public void updateCard(Card card) throws SQLException, ClassNotFoundException {
+
     }
 }
